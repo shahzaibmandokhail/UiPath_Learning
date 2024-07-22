@@ -1,0 +1,38 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Email_part2&Sequence_2",
+        "Email_part1&Sequence_2",
+        "FindEmail&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "solutionUiPath.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "InputData&Sequence_2",
+        "IndexTextToFind&Sequence_2",
+        "EmailAddressPart1&Sequence_2",
+        "EmailAddressPart2&Sequence_2",
+        "TemporaryIndex&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
