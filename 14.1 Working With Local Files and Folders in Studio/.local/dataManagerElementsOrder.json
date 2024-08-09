@@ -1,0 +1,45 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "InputFilePath&Sequence_1",
+        "InputFileInfo&Sequence_1",
+        "InputFolderPath&Sequence_1",
+        "ExtractedFolderPath&Sequence_1",
+        "ContractsFolderPath&Sequence_1",
+        "InvoicesFolderPath&Sequence_1",
+        "ProcessedFolderPath&Sequence_1",
+        "FolderExists&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "ExtractedFolderPath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GlobalHandler.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "answer&Sequence_1",
+        "retry&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "errorInfo",
+        "result"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

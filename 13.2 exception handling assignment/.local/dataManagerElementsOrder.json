@@ -1,0 +1,43 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CashIn&Sequence_2",
+        "CashOut&Sequence_2",
+        "Status&Sequence_1",
+        "CellIndex&Sequence_1",
+        "Difference&Sequence_2",
+        "dt_Practice&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "solution assignment.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_CashFlowValues&Sequence_2",
+        "WorkbookPath&Sequence_2",
+        "SheetName&Sequence_2",
+        "CashOut&Sequence_3",
+        "Result&Sequence_3",
+        "CashIn&Sequence_3",
+        "Status&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
